@@ -1,0 +1,214 @@
+{
+  "bot": {
+    "prefix": "!",
+    "name": "Lorde Pirata",
+    "activities": ["Sea of Thieves | !help"],
+    "activityType": ["PLAYING"],
+    "comunityServerID": "806147920369287179"
+  },
+  "channels": {
+    "member_count": "868316790307049512",
+    "event_log": {
+      "voice": "846822334283251772",
+      "message": "846817898323509318",
+      "emoji": "846817898323509318",
+      "role": "846817898323509318",
+      "channel": "846822334283251772",
+      "member": "846817898323509318",
+      "warn": "846817898323509318"
+    },
+    "ban": "819729084614574120",
+    "reaction": ["806147920889118728"],
+    "ticket_category": "812396743785971724",
+    "arena_tdm": "844037239763632148",
+    "reuniao_arena": "845072120085872650",
+    "arena_naval": "877273112109010994",
+    "ticket_message": "806147921170792462",
+    "transcript_log": "844166740673167380",
+    "chalupa_category": "806147921681973259",
+    "bergantim_category": "806147921850531862",
+    "galeão_category": "806147922042421261",
+    "penalidades": "811764400095756318",
+    "queue": ["825396005507825684", "806147922562908185", "843509563554791424", "863822586235715615"],
+    "queue_message": "868346614014681108",
+    "salaBugReport": "ALTERARID"
+   },
+   "helper": {
+    "help_categories": {
+      "arena": {
+        "name": "arena",
+        "display": "Arena",
+        "description": "Comandos da arena"
+      },
+      "mega": {
+        "name": "mega",
+        "display": "Mega",
+        "description": "Comandos da mega"
+      },
+      "moderacao": {
+        "name": "moderacao",
+        "display": "Moderacao",
+        "description": "Comandos da moderação"
+      },
+      "util": {
+        "name": "util",
+        "display": "Utilidade",
+        "description": "Comandos de utilidade"
+      }
+    },
+    "help_roles": {
+      "marinheiro": {
+        "key": "806147920369287180", 
+        "value": "Marinheiro"
+      },
+      "arena_tdm": {
+        "key": "843335890599280640", 
+        "value": "Arena TDM"
+      },
+      "arena_naval": {
+        "key": "875474503273152512", 
+        "value": "Arena NAVAL"
+      },
+      "marujo_alianca": {
+        "key": "806147920369287182", 
+        "value": "Marujo de Aliança"
+      },
+      "hardfarm": {
+        "key": "847608223418417204", 
+        "value": "HardFarm"
+      },
+      "oficial_arena": {
+        "key": "884953535664521277", 
+        "value": "Oficial da Arena"
+      },
+      "oficial_alianca": {
+        "key": "884953609542987776", 
+        "value": "Oficial da Aliança"
+      },
+      "ajudante_bordo": {
+        "key": "881327242666450954", 
+        "value": "Ajudante de Bordo"
+      },
+      "contramestre": {
+        "key": "820089233972396094", 
+        "value": "ContraMestre"
+      },
+      "aliancista": {
+        "key": "865755207442628639", 
+        "value": "Aliancista"
+      },
+      "mute": {
+        "key": "866796139173117972", 
+        "value": "Mute"
+      },
+      "suporte": {
+        "key": "866796218230767667", 
+        "value": "Suporte"
+      },
+      "segundo_imediato": {
+        "key": "806147920381739054", 
+        "value": "Segundo Imediato"
+      },
+      "capitao_alianca": {
+        "key": "806147920381739053", 
+        "value": "Capitão das Alianças"
+      },
+      "primeiro_imediato": {
+        "key": "806147920381739055", 
+        "value": "Primeiro Imediato"
+      },
+      "capitao": {
+        "key": "806147920381739056", 
+        "value": "Capitão"
+      }
+    }
+  },
+  "roles": {
+    "verify": "806147920369287180",
+    "perm_list_perms": ["820089233972396094", "806147920381739054", "806147920381739053", "806147920381739055", "806147920381739056"],
+    "giveaway_perms": ["806147920381739054", "806147920381739053", "806147920381739055", "806147920381739056"],
+    "annouce_perms": ["806147920381739056"],
+    "warn_perms": ["865755207442628639"],
+    "punishment": ["806147920369287182", "847608223418417204"],
+    "support": "866796218230767667",
+    "ban": ["806147920381739054", "806147920381739053", "806147920381739055", "806147920381739056"],
+    "kick": ["806147920381739054", "806147920381739053", "806147920381739055", "806147920381739056"],
+    "clear": ["806147920381739054", "806147920381739053", "806147920381739055", "806147920381739056"],
+    "mega": ["865755207442628639"],
+    "trip": ["806147920369287182"],
+    "mute": ["806147920381739054", "806147920381739053", "806147920381739055", "806147920381739056", "820089233972396094"],
+    "muted_role": "866796139173117972",
+    "embed": ["806147920381739056", "806147920381739055", "865755207442628639", "806147920381739054"]
+},
+  "emojis": {
+    "verify": "812552052861042688",
+    "react_no": "<:confirmno:812552042090463252>",
+    "react_yes": "<:confirmyes:812552052861042688>",
+    "react_left": "🆗",
+    "galleon_emoji": "<:shipGalleon:827402576492232714>",
+    "brig_emoji": "<:shipBrig:827402576566943774>",
+    "sloop_emoji": "<:shipSloop:827402576504422422>",
+    "pesca_emoji": "<:megShroudedghost:827402846642241546>",
+    "fishingpole_emoji": "<:fishingpole:808882986090496021>",
+    "comparena_emoji": "<:compArena:827402272900120616>",
+    "compMercante_emoji": "<:compMercante:827402272794214422>",
+    "compOuro_emoji": "<:compOuro:827402272790282250>",
+    "compAlmas_emoji": "<:compAlmas:827402272874561596>",
+    "compReaper_emoji": "<:compreaper:812707842308964373>",
+    "goodPirate": "<:GoodPirate:808882986677436467>"
+  },
+  "messages": {
+    "first_welcome_message": "Ahoy pirata! <:GoodPirate:808882986677436467>\n\nBem vindo a comunidade do Sea of Thieves Brasil! 🇧🇷\n\nLeia atentamente as <#806147920889118728> e reaja no icone <:confirmyes:812552052861042688> para se cadastrar.",
+    "welcomeMessageToSendToUserDM": "Olá marujo! Espero que esteja bem, aqui vai algumas dicas do servidor para você.\n\nPara buscar uma galera firmeza e anunciar vagas na aventura, vá em <#806147920889118720>\nPara trocar um papo daora, vá em<#808893772372377640>\nTá com dúvidas? Pergunte no canal <#806147920889118722>\nTem algum vídeo ou live sobre Sea of Thieves? Mande em <#806147920889118725>\nVeio pela mega aliança?  <#836352737327054938> e <#815441586951159818>\nPrecisa falar com a moderação ou quer solicitar <#806147921170792461>? Abra um ticket em <#806147921170792462>\nTá querendo um PvP na Arena ou TDM? <#813959876345724959>\nAh, temos tutoriais e dicas em <#827657244002222140>, <#827657133242974238>  e <#827657087320326167>\nMas acima de tudo, leia as <#806147920889118728>\nE para jogar PC com XBOX  é só convidar pelo NOME do PIRATA pelo Windows+G ou Aplicativo do Xbox.\n\nNão esquece de convidar os amigos em <#827654142406295562> ein!!! Bom jogo!",
+    "memberCountTextInChannelName": "Piratas",
+    "ticketMessageTitle": "Denúncias e Solicitações é aqui mesmo com o Lorde Pirata!"
+  },
+  "modules": {
+    "MemberCount": true,
+    "EventLog": true,
+    "AutoChannel": false,
+    "QueueChannel": true
+  },
+  "EventLogListeners": {
+    "messageDelete": true,
+    "messageUpdate": true,
+    "voiceStateUpdate": true,
+    "emojiCreate": true,
+    "emojiDelete": true,
+    "roleCreate": true,
+    "roleUpdate": true,
+    "roleDelete": true,
+    "channelCreate": true,
+    "channelDelete": true,
+    "guildMemberUpdate": true,
+    "warnCreate": true,
+    "warnDelete": true
+  },
+  "warnings": {
+    "1": {
+      "expire_days": "15",
+      "have_punish": false
+    },
+    "2": {
+      "expire_days": "20",
+      "have_punish": true,
+      "days_punish": 5
+    },
+    "3": {
+      "expire_days": "30",
+      "have_punish": true,
+      "days_punish": 10
+    },
+    "4": {
+      "expire_days": "45",
+      "have_punish": true,
+      "days_punish": 15
+    },
+    "5": {
+      "expire_days": "60",
+      "have_punish": true,
+      "days_punish": 60
+    }
+  }
+
+}
